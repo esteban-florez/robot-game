@@ -1,0 +1,3 @@
+# Jueguito del Robot
+
+No sé, me encontré esta librería llamada [Kaboom](https://kaboomjs.com/) para hacer jueguitos con JavaScript. Así que quise probarla haciendo un jueguito simple sobre un robot. A ver que se me ocurre...
