@@ -58,4 +58,8 @@ Object.entries(MOVE_KEYS).forEach(([key, direction]) => {
 
 fat.onGround(() => {
   // cuando cae el robot va a hacer una onda expansiva pa los laos, no se aún pa que
+  // se me ocurre que el robot sea un robot obeso, que cuando cae hace onda expansiva
+  // entonces va comiendo chatarra para hacerse más gordo y hacer ondas expansivas más potentes
+  // puede haber puertas que necesiten cierto grado de onda expansiva, y tal, cosas así
+  // mas onda expansiva, mas matas enemigos que se yo
 })
